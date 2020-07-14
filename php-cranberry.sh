@@ -1,4 +1,4 @@
-# Usage : Fix your missing php packages problems. 
+# Usage : Fix your php (missing packages) problems. 
 
 cd; clear; echo Cranberry (Buster 10) :: Php Common Packages; sleep 2s ; echo Cranberry :: Updating repository...; sleep 2s 
 
